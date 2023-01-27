@@ -6,7 +6,7 @@ public class task5 {
         int a = scn.nextInt();
         long b = scn.nextLong();
         float c = scn.nextFloat();
-        double sum = a+b+c;
+        double sum = a+b+c+1;
         System.out.printf("%2f" , sum);
 
     }
